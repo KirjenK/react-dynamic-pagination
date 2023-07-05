@@ -1,6 +1,7 @@
 # React Dynamic Pagination Project with Intersection Observer
 
 This project is an example of implementing dynamic pagination on the React platform using Intersection Observer.
+* https://react-dynamic-pagination.netlify.app/
 ### Technologies Used
 * <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"></a> React: A popular JavaScript library for building user interfaces.
 * <a href="#"><img src="https://raw.githubusercontent.com/KirjenK/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"></a> TypeScript:  A typed superset of JavaScript that adds static types and improves developer productivity.
